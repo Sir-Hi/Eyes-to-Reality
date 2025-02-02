@@ -1,0 +1,23 @@
+[gd_scene load_steps=4 format=3 uid="uid://cffsgtn6tpmto"]
+
+[ext_resource type="Script" path="res://character_body_2d.gd" id="1_setvd"]
+[ext_resource type="Texture2D" uid="uid://h8tfuyr8llum" path="res://Eye open.png" id="2_dpxgg"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_vc4uf"]
+radius = 16.0
+height = 48.0
+
+[node name="Node2D" type="Node2D"]
+
+[node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+texture_filter = 1
+script = ExtResource("1_setvd")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
+shape = SubResource("CapsuleShape2D_vc4uf")
+
+[node name="EyeOpen" type="Sprite2D" parent="CharacterBody2D"]
+texture_filter = 1
+position = Vector2(-1.90735e-06, 1.90735e-06)
+scale = Vector2(0.48, 1.6)
+texture = ExtResource("2_dpxgg")
