@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://h8tfuyr8llum"
-path="res://.godot/imported/Eye open.png-328747fb83f935d032d0aae63a9db32e.ctex"
+uid="uid://ctf2cnl2vd7ad"
+path="res://.godot/imported/Sprite-0005.png-52526af2d4553075862cf2ea1938d298.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Eye open.png"
-dest_files=["res://.godot/imported/Eye open.png-328747fb83f935d032d0aae63a9db32e.ctex"]
+source_file="res://Art/Sprite-0005.png"
+dest_files=["res://.godot/imported/Sprite-0005.png-52526af2d4553075862cf2ea1938d298.ctex"]
 
 [params]
 

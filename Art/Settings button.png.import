@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cb5smjgqmhb26"
-path="res://.godot/imported/Eye closed.png-8b3db370f461d39ed9cbc6de6a95b321.ctex"
+uid="uid://unl3ih70wuwn"
+path="res://.godot/imported/Settings button.png-bad5f18c27bae304153189d78f7e9467.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Eye closed.png"
-dest_files=["res://.godot/imported/Eye closed.png-8b3db370f461d39ed9cbc6de6a95b321.ctex"]
+source_file="res://Art/Settings button.png"
+dest_files=["res://.godot/imported/Settings button.png-bad5f18c27bae304153189d78f7e9467.ctex"]
 
 [params]
 

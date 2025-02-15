@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://da2w3ckvyyuqi"
-path="res://.godot/imported/Level select button.png-7ad36e02d9c1b73d2086b5d24a8894f3.ctex"
+uid="uid://h8tfuyr8llum"
+path="res://.godot/imported/Eye open.png-648602d55c03ff17ed9634b2acefb0d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Level select button.png"
-dest_files=["res://.godot/imported/Level select button.png-7ad36e02d9c1b73d2086b5d24a8894f3.ctex"]
+source_file="res://Art/Eye open.png"
+dest_files=["res://.godot/imported/Eye open.png-648602d55c03ff17ed9634b2acefb0d1.ctex"]
 
 [params]
 

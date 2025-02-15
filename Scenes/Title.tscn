@@ -1,10 +1,10 @@
 [gd_scene load_steps=7 format=3 uid="uid://eds2bi4antd7"]
 
-[ext_resource type="Texture2D" uid="uid://dqvuf8um70qv8" path="res://Play button.png" id="1_sga7x"]
-[ext_resource type="Texture2D" uid="uid://unl3ih70wuwn" path="res://Settings button.png" id="2_ade04"]
-[ext_resource type="Texture2D" uid="uid://da2w3ckvyyuqi" path="res://Level select button.png" id="3_1g8cm"]
-[ext_resource type="Texture2D" uid="uid://h8tfuyr8llum" path="res://Eye open.png" id="4_sda1l"]
-[ext_resource type="PackedScene" uid="uid://crdi0yooejr7q" path="res://TitleButtonFunctions.tscn" id="5_6slig"]
+[ext_resource type="Texture2D" uid="uid://dqvuf8um70qv8" path="res://Art/Play button.png" id="1_sga7x"]
+[ext_resource type="Texture2D" uid="uid://unl3ih70wuwn" path="res://Art/Settings button.png" id="2_ade04"]
+[ext_resource type="Texture2D" uid="uid://da2w3ckvyyuqi" path="res://Art/Level select button.png" id="3_1g8cm"]
+[ext_resource type="Texture2D" uid="uid://h8tfuyr8llum" path="res://Art/Eye open.png" id="4_sda1l"]
+[ext_resource type="PackedScene" uid="uid://crdi0yooejr7q" path="res://Scenes/TitleButtonFunctions.tscn" id="5_6slig"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_lgapx"]
 

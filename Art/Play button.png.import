@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ctf2cnl2vd7ad"
-path="res://.godot/imported/Sprite-0005.png-bc5b3a923b5fb5707d4af74c6c421d10.ctex"
+uid="uid://dqvuf8um70qv8"
+path="res://.godot/imported/Play button.png-25f2b9a77a47d5ead4cf9a3fa9334620.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprite-0005.png"
-dest_files=["res://.godot/imported/Sprite-0005.png-bc5b3a923b5fb5707d4af74c6c421d10.ctex"]
+source_file="res://Art/Play button.png"
+dest_files=["res://.godot/imported/Play button.png-25f2b9a77a47d5ead4cf9a3fa9334620.ctex"]
 
 [params]
 

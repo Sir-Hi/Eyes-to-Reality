@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dwjr3gwpfmdd4"
-path="res://.godot/imported/Tile sheet.png-5d800487406537fc6502410b79df6ffb.ctex"
+uid="uid://da2w3ckvyyuqi"
+path="res://.godot/imported/Level select button.png-dc0d1a93bf438657de9fb40e8cfa0259.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tile sheet.png"
-dest_files=["res://.godot/imported/Tile sheet.png-5d800487406537fc6502410b79df6ffb.ctex"]
+source_file="res://Art/Level select button.png"
+dest_files=["res://.godot/imported/Level select button.png-dc0d1a93bf438657de9fb40e8cfa0259.ctex"]
 
 [params]
 
