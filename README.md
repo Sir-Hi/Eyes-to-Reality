@@ -1,4 +1,5 @@
-hai :3
+Hello!
 
-!false
-its funny because its true
+This is Eyes to Reality a puzzle game made for the hackathon juice game jam! 
+
+Have fun!
