@@ -12,7 +12,7 @@
 
 [node name="PlayButton" type="Sprite2D" parent="."]
 texture_filter = 1
-position = Vector2(576, 416)
+position = Vector2(576, 376)
 scale = Vector2(2.41, 2.31)
 texture = ExtResource("1_sga7x")
 
@@ -24,7 +24,7 @@ texture = ExtResource("2_ade04")
 
 [node name="LevelSelectButton" type="Sprite2D" parent="."]
 texture_filter = 1
-position = Vector2(576, 512)
+position = Vector2(576, 456)
 scale = Vector2(2, 2)
 texture = ExtResource("3_1g8cm")
 
@@ -35,7 +35,7 @@ sprite_frames = SubResource("SpriteFrames_lgapx")
 
 [node name="TitleEye" type="Sprite2D" parent="."]
 texture_filter = 1
-position = Vector2(576, 192)
+position = Vector2(576, 128)
 scale = Vector2(4, 4)
 texture = ExtResource("4_sda1l")
 

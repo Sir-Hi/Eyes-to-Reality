@@ -1,14 +1,26 @@
-[gd_scene load_steps=3 format=3 uid="uid://d24hal3wew0a0"]
+[gd_scene load_steps=5 format=3 uid="uid://d24hal3wew0a0"]
 
+[ext_resource type="Script" path="res://Scripts/enemy.gd" id="1_agq1x"]
 [ext_resource type="Texture2D" uid="uid://bdiyaakvcuh3n" path="res://Art/icon.svg" id="1_pwsi1"]
 
-[sub_resource type="CircleShape2D" id="CircleShape2D_jcm8e"]
-radius = 65.0308
+[sub_resource type="CircleShape2D" id="CircleShape2D_1vlms"]
+radius = 68.0
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_cs415"]
+size = Vector2(128, 128)
 
 [node name="Enemy" type="CharacterBody2D"]
+scale = Vector2(0.25, 0.25)
+script = ExtResource("1_agq1x")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("1_pwsi1")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-shape = SubResource("CircleShape2D_jcm8e")
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = SubResource("CircleShape2D_1vlms")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." groups=["Enemy"]]
+shape = SubResource("RectangleShape2D_cs415")
+debug_color = Color(0.884508, 0.000313812, 0.810391, 0.42)

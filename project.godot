@@ -24,6 +24,10 @@ Messages="*res://Globals/Messages.gd"
 
 project/assembly_name="Eyes to Reality"
 
+[global_group]
+
+Enemy=""
+
 [input]
 
 Left={
@@ -48,4 +52,5 @@ Jump={
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="mobile"
