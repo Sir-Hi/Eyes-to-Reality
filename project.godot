@@ -27,6 +27,7 @@ project/assembly_name="Eyes to Reality"
 [global_group]
 
 Enemy=""
+Player=""
 
 [input]
 
