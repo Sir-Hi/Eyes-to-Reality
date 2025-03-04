@@ -1,7 +1,7 @@
 [gd_scene load_steps=8 format=3 uid="uid://bpnf0ws5logs3"]
 
 [ext_resource type="Texture2D" uid="uid://dqvuf8um70qv8" path="res://Art/Play button.png" id="1_12v81"]
-[ext_resource type="Script" path="res://Scripts/title_screen.gd" id="1_ck6w3"]
+[ext_resource type="Script" uid="uid://b7opwp7bqtoai" path="res://Scripts/title_screen.gd" id="1_ck6w3"]
 [ext_resource type="Texture2D" uid="uid://da2w3ckvyyuqi" path="res://Art/Level select button.png" id="3_27v1v"]
 [ext_resource type="Texture2D" uid="uid://h8tfuyr8llum" path="res://Art/Eye open.png" id="4_a40e5"]
 
